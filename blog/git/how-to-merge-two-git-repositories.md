@@ -9,11 +9,11 @@ Tags: git
 
 So I've switched this site from our friend Wordpress to a flat file CMS based site... There a few reasons why I decided to do this, but largely I did it for fun!
 
-I love me some [git](http://www.danielpavey.uk/tags/git) and wanted to preserve the [git](http://www.danielhpavey.uk/tags/git) history of this site...
+I love me some [git](https://www.danielpavey.uk/tags/git) and wanted to preserve the [git](https://www.danielhpavey.uk/tags/git) history of this site...
 
 I developed the new version of the site in a seperate repository. But there came a point where I had to bite the bullit and merge the old site and the new. 
 
-The best basic description I found on line for how to merge two [git](http://www.danielhpavey.uk/tags/git) repositories is below.
+The best basic description I found on line for how to merge two [git](https://www.danielhpavey.uk/tags/git) repositories is below.
 
 > Clone both repositories into the same directory and go into repo A:
 > 

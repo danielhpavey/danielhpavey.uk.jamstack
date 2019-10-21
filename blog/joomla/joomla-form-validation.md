@@ -7,11 +7,11 @@ Tags: joomla,web design
 
 # Joomla! Form Validation
 
-Do you need to add some JavaScript form validation to your [Joomla!](http://www.danielhpavey.uk/tag/joomla/) module or component?
+Do you need to add some JavaScript form validation to your [Joomla!](https://www.danielhpavey.uk/tag/joomla/) module or component?
 
 Of course you do!
 
-Add this to your [php](http://www.danielhpavey.uk/tag/php/)  page:
+Add this to your [php](https://www.danielhpavey.uk/tag/php/)  page:
 
 `
 JHTML::_('behavior.mootools');

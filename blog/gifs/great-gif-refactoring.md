@@ -8,6 +8,6 @@ Tags: gifs,css,web development
 
 #Great Gif: Refactoring
 
-<img src = "http://www.danielhpavey.uk/images/refactoring.gif" alt = "Refactoring Gif" />
+<img src = "/images/refactoring.gif" alt = "Refactoring Gif" />
 
 Love this gif!

@@ -24,10 +24,10 @@ This pulls across any changes in that remote branch.
 > git checkout -b dev/area-list-amends
 > git pull dev area-list-amends
 
-I do seem to keep having the same issue with [git](http://www.danielhpavey.uk/tag/git/)… A lot of what I want to do is really quite simple, but a lot of the time the simple answer is hard to find… Do you know what I mean?
+I do seem to keep having the same issue with [git](https://www.danielhpavey.uk/tag/git/)… A lot of what I want to do is really quite simple, but a lot of the time the simple answer is hard to find… Do you know what I mean?
 
 Hopefully the above gives you an easy solution to what you are trying to do!
 
 
-<img src = "http://www.danielhpavey.uk/images/Git-Logo-2Color.png" alt = "Git Logo" />
+<img src = "/images/Git-Logo-2Color.png" alt = "Git Logo" />
 

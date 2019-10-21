@@ -21,4 +21,4 @@ Of course you can edit this to suit your own purposes.
 
 Hope it helps!
 
-<img src = "http://www.danielhpavey.uk/images/joomla_logo.jpg" alt = "Joomla Logo" />
+<img src = "/images/joomla_logo.jpg" alt = "Joomla Logo" />

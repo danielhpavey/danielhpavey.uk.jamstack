@@ -21,4 +21,4 @@ However I found [this](http://www.mwasif.com/2008/12/count-number-of-words-in-a-
 
 Nifty!
 
-<img src = "http://www.danielhpavey.uk/images/mysql-logo.jpg" />
+<img src = "/images/mysql-logo.jpg" />

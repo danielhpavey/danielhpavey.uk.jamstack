@@ -7,11 +7,11 @@ Tags: vim,web development,git
 ---
 # Open all files from a specific Git Commit in Vim
 
-I occasionally find myself needing to open all files from a specific [Git](http://www.danielhpavey.uk/tag/git) commit. I use [vim](http://www.danielhpavey.uk/tag/vim) as my editor.
+I occasionally find myself needing to open all files from a specific [Git](http://www.danielhpavey.uk/tag/git) commit. I use [vim](https://www.danielhpavey.uk/tag/vim) as my editor.
 
 Soooo....
 
-I created a little alias to get all the names of files modified in the specific commit and open them all in [vim](http://www.danielhpavey.uk/tag/vim):
+I created a little alias to get all the names of files modified in the specific commit and open them all in [vim](https://www.danielhpavey.uk/tag/vim):
 
 > function vcommit(){<br />
 > 	&nbsp;&nbsp;&nbsp;&nbsp;vim $(git diff-tree --no-commit-id --name-only -r $1)<br />

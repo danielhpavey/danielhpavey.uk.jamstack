@@ -9,5 +9,5 @@ Tags: gifs
 # Thought Leadership Gif
 
 
-<img src = "http://www.danielhpavey.uk/images/thoughtleadership.gif" alt = "Though Leadership Gif" />
+<img src = "/images/thoughtleadership.gif" alt = "Though Leadership Gif" />
 

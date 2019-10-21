@@ -9,7 +9,7 @@ Tags: alfred,workflow
 
 Another super simple [Alfred App](http://www.alfredapp.com/) extension.
 
-I sometimes find that I need to pop some text into the clipboard, and wondered if there was a easy way I could achieve this with my favourite productivity tool [Alfred](http://www.danielhpavey.uk/tag/alfred/)
+I sometimes find that I need to pop some text into the clipboard, and wondered if there was a easy way I could achieve this with my favourite productivity tool [Alfred](https://www.danielhpavey.uk/tag/alfred/)
 
 And I did... and create this very simple extension.
 

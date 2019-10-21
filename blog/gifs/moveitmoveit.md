@@ -10,5 +10,5 @@ date: 2015-04-24
 
 Loving this one...
 
-<img src = "http://www.danielhpavey.uk/images/moveitmoveit.gif" alt = "Move It Move It Gif" />
+<img src = "/images/moveitmoveit.gif" alt = "Move It Move It Gif" />
 

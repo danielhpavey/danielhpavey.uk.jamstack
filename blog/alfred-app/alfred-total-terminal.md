@@ -38,4 +38,4 @@ Have fun.
 
 
 
-<img src = "http://www.danielhpavey.uk/images/totalterminalalfredintegration.jpg" alt = "Alfred & TotalTerminal Integration" style = "max-width:100%" />
+<img src = "/images/totalterminalalfredintegration.jpg" alt = "Alfred & TotalTerminal Integration" style = "max-width:100%" />

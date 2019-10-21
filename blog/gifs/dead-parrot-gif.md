@@ -10,4 +10,4 @@ Tags: gif
 
 Just gotta keep this one safe..
 
-<img src = "../images/fjords.gif" alt = "Dead Parott Gif" />
+<img src = "/images/fjords.gif" alt = "Dead Parott Gif" />

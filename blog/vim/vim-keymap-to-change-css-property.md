@@ -23,5 +23,5 @@ My leader key is set to ,
 
 So I now (when on the line I want to edit) hit ,css and the existing css property values will be removed and I can replace with the new!
 
-<img src = "http://www.danielhpavey.uk/images/vim-css-key-mapping.gif" alt = "Vim CSS Key Mapping Animated Gif" />
+<img src = "/images/vim-css-key-mapping.gif" alt = "Vim CSS Key Mapping Animated Gif" />
 

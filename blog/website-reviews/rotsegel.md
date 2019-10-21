@@ -18,5 +18,5 @@ I don't really like the drop downs in the menu (I generally don't like drop down
 But apart those small complaints the site is nice. And of course it is responsive!
 
 <a href = "http://www.rotsegel.com/" target = "_blank" >
-<img src = "http://www.danielhpavey.uk/images/sites/www.rotsegel.com-.jpg" alt = "Rotsegel" title = "Rotsegel" />
+<img src = "https://www.danielhpavey.uk/images/sites/www.rotsegel.com-.jpg" alt = "Rotsegel" title = "Rotsegel" />
 </a>

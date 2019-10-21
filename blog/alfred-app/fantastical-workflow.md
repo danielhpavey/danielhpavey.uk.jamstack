@@ -9,7 +9,7 @@ Tags: alfred,workflow
 
 So the [Alfred v2 Beta](http://blog.alfredapp.com/2013/01/12/first-alfred-v2-beta-now-available-for-mega-supporters/) is now out.  I've been running it for a few days and the new workflow feature looks like it's gonna be really powerful!
 
-[Alfred v1](http://www.danielhpavey.uk/tag/alfred) has become an essential tool for me now, mainly due to the great [extensions](http://support.alfredapp.com/extensions) that are out there for it.
+[Alfred v1](https://www.danielhpavey.uk/tag/alfred) has become an essential tool for me now, mainly due to the great [extensions](http://support.alfredapp.com/extensions) that are out there for it.
 
 Obviously with this Beta not all the extensions have been updated yet, but with the new Workflow system in v2 it's pretty easy to start replicating some of my old favourite v1 extensions.
 
@@ -18,4 +18,4 @@ The first one I have done is for [Fantastical](http://flexibits.com/).  I have s
 Feel free to download it if it's useful!
 
 
-[Download](http://www.danielhpavey.uk/alfred/Fantastical.alfredworkflow) 
+[Download](/alfred/Fantastical.alfredworkflow) 

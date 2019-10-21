@@ -31,4 +31,4 @@ It took me a little bit of digging to clarify how exactly to achieve this, but t
 
 In Joomla! 3 to make the JCH Optimize plugin only operate when users <strong>are not</strong> logged in simply set the <strong>Access</strong> in the plugin to <strong>Guest</strong>
 
-<img src="http://www.danielhpavey.uk/images/jch-optimize-joomla-plugin-settings.jpg" alt="JCH Optimize Pluging Setting" />
+<img src="/images/jch-optimize-joomla-plugin-settings.jpg" alt="JCH Optimize Pluging Setting" />

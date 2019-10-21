@@ -7,7 +7,7 @@ Tags: joomla,web design
 
 # Joomla User Email Notification Plugin
 
-As standard, when you create a new user in [Joomla!](http://www.danielhpavey.uk/tag/joomla/) that user gets an e-mail to tell them their user details.
+As standard, when you create a new user in [Joomla!](https://www.danielhpavey.uk/tag/joomla/) that user gets an e-mail to tell them their user details.
 
 This is super useful… Unless you don't want them to get an e-mail..!
 

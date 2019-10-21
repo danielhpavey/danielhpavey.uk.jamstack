@@ -10,5 +10,5 @@ Tags: gifs
 
 One of the best gifs I've seen in a while...
 
-<img src = "http://www.danielhpavey.uk/images/beaker-freak.gif" alt = "Beaker Freak Gif" />
+<img src = "/images/beaker-freak.gif" alt = "Beaker Freak Gif" />
 
