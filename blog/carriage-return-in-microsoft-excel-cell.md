@@ -22,4 +22,4 @@ To insert a carriage return in a Microsoft excel spreadsheet cell use the follow
 
 Good luck to you and may the odds be ever in your favour!!
 
-<img src = "http://danielhpavey.uk/images/uploads/2012/12/Microsoft-Excel-Spreadsheet.jpg" />
+<img src = "/images/uploads/2012/12/Microsoft-Excel-Spreadsheet.jpg" />
