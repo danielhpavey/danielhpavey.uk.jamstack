@@ -14,7 +14,7 @@ By default is is case sensitve, whish is great... but sometimes you want to do a
 
 This is how:
 
-  ack -i searchterm
+> ack -i searchterm
   
 So just use the -i switch.
 
