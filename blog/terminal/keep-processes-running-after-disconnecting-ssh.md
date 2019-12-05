@@ -1,7 +1,7 @@
 ---
 Title: Keep Processes Running After Disconnecting SSH
 Description: How to keep proceses / app running after ending an SSH session with the screen command.
-date: 2019-12-5
+date: 2019-12-05
 Tags: terminal,ssh,tips
 
 ---
