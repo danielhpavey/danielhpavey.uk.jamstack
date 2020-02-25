@@ -22,7 +22,7 @@ example:
   list2: *foo
 ```
 
-That defines an anchor named foo referring to the list in the list1 key. Elsewhere in the document we can use *foo to refer to that same list. [source](https://stackoverflow.com/questions/46896382/docker-composer-volumes-and-networks-have-or-in-declaration)
+That defines an anchor named foo referring to the list in the list1 key. Elsewhere in the document we can use *foo to refer to that same list. ([source](https://stackoverflow.com/questions/46896382/docker-composer-volumes-and-networks-have-or-in-declaration))
 
 This is then really great for setting up shared volumes in your docker-compose.yml file.
 
