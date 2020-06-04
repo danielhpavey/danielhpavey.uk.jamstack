@@ -1,7 +1,7 @@
 ---
 Title: MySql Import and Export Toolbox
 Description: A collection of basic mysql db import and export commands
-date: 2020-0604
+date: 2020-06-04
 Tags: mysql,databases,db
 
 ---
