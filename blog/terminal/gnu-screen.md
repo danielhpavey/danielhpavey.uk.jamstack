@@ -31,7 +31,7 @@ Here's a few more commands to get a bit more funcitionality:
 
 > CTRL-a SHIFT-x (CTRL-a X)
 
-## Save layout so that you get all your splits back again after to detach and reattach
+## Save layout so that you get all your splits back again after detach and reattach
 
 > Ctrl-a
 > :layout save default
