@@ -5,6 +5,8 @@ date: 2020-07-23T00:00:00+01:00
 Tags: terminal
 
 ---
+# Getting Directory Sizes in Terminal
+
 du -hs * | sort -h
 
 If you are using a sort that does not support -h, you can install GNU Coreutils. E.g. on an older Mac OS X:
