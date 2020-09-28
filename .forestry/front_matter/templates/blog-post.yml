@@ -15,4 +15,5 @@ fields:
   name: Tags
   label: Tags
 pages:
+- blog/terminal/gzip-log-files.md
 - blog/terminal/terminal/directory-sizes-in-terminal.md
