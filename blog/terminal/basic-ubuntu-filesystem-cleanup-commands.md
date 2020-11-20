@@ -8,13 +8,13 @@ Tags: terminal,command line,ubuntu
 
 # Basic Ubuntu File System Cleanup Commands
 
-- Get rid of packages that are no longer used:
+### Get rid of packages that are no longer used:
 
 ```
 sudo apt-get autoremove
 ```
 
-- Clean up APT cache in Ubuntu
+### Clean up APT cache in Ubuntu
 
 This command tells you how much space is getting used by the Apt cache:
 
@@ -34,13 +34,13 @@ Or this command to clean it entirely:
 sudo apt-get clean
 ```
 
-- Clear systemd journal logs 
+### Clear systemd journal logs 
 
 This command tells you how much space is getting used by these logs:
 
 ```
 journalctl --disk-usage
-zzz
+````
 
 This command lets you renove them older than a specified number of days:
 
