@@ -1,6 +1,6 @@
 ---
 Title: Use curly braces
-Description: Tip: Use curly braces in the command-line to quickly create multiple related files with less typing.
+Description: Tip - Use curly braces in the command-line to quickly create multiple related files with less typing.
 date: 2020-12-11
 Tags: terminal,command line
 
