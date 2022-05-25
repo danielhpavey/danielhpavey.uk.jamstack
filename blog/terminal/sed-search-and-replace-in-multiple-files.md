@@ -5,7 +5,6 @@ date: 2022-05-25
 Tags: terminal,ack,command line,sed
 
 ---
-
-#sed Command to search and replace in multiple files
+# sed Command to search and replace in multiple files
 
 > for file in $(ack -l testing@ cypress/integration); do echo $file && gsed -i 's/testing/web-testing/g' $file; done
